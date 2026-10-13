@@ -1,0 +1,7 @@
+{
+  "name": "Gesture Control",
+  "description": "Touch-free gesture controller using camera hand tracking and accessibility service for cursor, clicks, and navigation",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

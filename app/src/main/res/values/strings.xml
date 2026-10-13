@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gesture Control</string>
+    <string name="accessibility_service_description">Enables Gesture Control to simulate touch, clicks, and navigation gestures on your screen based on camera hand detection.</string>
+    <string name="notification_channel_name">Gesture Controller</string>
+    <string name="notification_channel_desc">Active hand tracking and overlay service</string>
+    <string name="service_running_title">Gesture Control is Active</string>
+    <string name="service_running_text">Camera tracking active. Pinch to click, swipe to scroll.</string>
+    <string name="stop_service">Stop Service</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Active pinch/click indicator: solid vibrant ring and dot -->
+    <path
+        android:fillColor="#55FF0055"
+        android:strokeColor="#FF0055"
+        android:strokeWidth="3.5"
+        android:pathData="M 24,24 m -16,0 a 16,16 0 1,0 32,0 a 16,16 0 1,0 -32,0" />
+    <path
+        android:fillColor="#FF0055"
+        android:pathData="M 24,24 m -7,0 a 7,7 0 1,0 14,0 a 7,7 0 1,0 -14,0" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M 24,24 m -2.5,0 a 2.5,2.5 0 1,0 5,0 a 2.5,2.5 0 1,0 -5,0" />
+</vector>
